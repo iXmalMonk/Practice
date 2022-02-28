@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p03_01_08_Islamov", "p03_01
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p03_01_12_Manastyrskij", "p03_01_12_Manastyrskij\p03_01_12_Manastyrskij.vcxproj", "{623061AB-B8BB-480B-B535-CAE82B42B5FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p03_01_17_Manastyrskij", "p03_01_17_Manastyrskij\p03_01_17_Manastyrskij.vcxproj", "{E645E607-3AE4-473E-A78B-29207B9D33F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{623061AB-B8BB-480B-B535-CAE82B42B5FD}.Release|x64.Build.0 = Release|x64
 		{623061AB-B8BB-480B-B535-CAE82B42B5FD}.Release|x86.ActiveCfg = Release|Win32
 		{623061AB-B8BB-480B-B535-CAE82B42B5FD}.Release|x86.Build.0 = Release|Win32
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Debug|x64.ActiveCfg = Debug|x64
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Debug|x64.Build.0 = Debug|x64
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Debug|x86.Build.0 = Debug|Win32
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Release|x64.ActiveCfg = Release|x64
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Release|x64.Build.0 = Release|x64
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Release|x86.ActiveCfg = Release|Win32
+		{E645E607-3AE4-473E-A78B-29207B9D33F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
